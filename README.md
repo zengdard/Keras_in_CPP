@@ -9,7 +9,7 @@ This C++ code is designed to make predictions using a Tensorflow Keras model. Th
 Before running the code, make sure you have the following dependencies installed:
 
 - [TensorFlow C++ API](https://www.tensorflow.org/install/lang_c)
-- [frugally-deep] - [frugally-deep GitHub Repository](https://github.com/Dobiasd/frugally-deep/)
+- [frugally-deep](https://github.com/Dobiasd/frugally-deep/)
 - [C++17](https://en.cppreference.com/w/cpp/17)
 
 ## Usage
